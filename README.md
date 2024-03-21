@@ -29,7 +29,8 @@ Usage
 
     cd PISWG
     
-  Run the main script to start using PISWG:
+Run the main script to start using PISWG:
+
     chmod +x requirement.sh
     bash requirement.sh
     python main.py
